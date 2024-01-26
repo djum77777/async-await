@@ -9,6 +9,7 @@
   "author": "Mariana",
   "license": "ISC",
   "dependencies": {
+    "colors": "^1.4.0",
     "prompt-sync": "^4.2.0"
   }
 }

@@ -40,7 +40,7 @@ order(2000,()=>console.log(`${stocks.fruit[0]} was selected`))
 
 .then(()=>
 {
-    return order(000,()=>
+    return order(1000,()=>
     {
         console.log("production has started");
     })
